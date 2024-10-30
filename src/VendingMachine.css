@@ -1,0 +1,12 @@
+img {
+  display: block;
+  margin-left: 15vh;
+  margin-right: auto;
+  max-height: 100vh;
+  object-fit: cover;
+}
+
+.VendingMachine {
+  position: relative;
+  text-align: center;
+}
